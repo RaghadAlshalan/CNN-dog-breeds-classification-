@@ -26,7 +26,7 @@ In this project, I explor some state-of-the-art CNN models for classification an
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+		git clone https://github.com/RaghadAlshalan/CNN-dog-breeds-classification-.git
 		cd deep-learning-v2-pytorch/project-dog-classification
 	```
 	
